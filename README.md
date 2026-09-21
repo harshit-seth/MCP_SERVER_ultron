@@ -302,3 +302,5 @@ git push -u origin main
 ```
 
 Review `.env` and all deployment secrets before the first commit.
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/harshit-seth/mcp_server_ultron)](https://m8ven.ai/mcp/harshit-seth/mcp_server_ultron)
